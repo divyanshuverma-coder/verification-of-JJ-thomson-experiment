@@ -1,6 +1,6 @@
 <html>
 <body>
 <h1>AIM-</h1>
-<p>Verification Of JJ Thomson's experiment </p>
+<p>To verify charge to mass ratio by JJ Thomson Experiment. </p>
 </body>
 </html>
