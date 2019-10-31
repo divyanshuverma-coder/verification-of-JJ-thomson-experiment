@@ -1,1 +1,1 @@
-
+<h1><u> PROCEDURE:</u></h1><h2>1. Enter the value of E and B (E/B=v).<br>2. Click the submit button.<br> 3. Observe the value of y,....,e/m.<br>4. Charge to mass ratio calculated after simulation.<br>5.Repeat the experiment and observe the value of e/m.  </h2></div>
