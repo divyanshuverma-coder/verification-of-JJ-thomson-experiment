@@ -42,26 +42,7 @@ When the sample is introduced between the charge plates, current flows and the a
 <br> ANS:-A
 
 
-### 5. Formulas and equations used :
-
-Formulas:<br> 
-<img src="storyboard/eq.jpg"/>
-
-<img src="storyboard/eq1.jpg"/>
-<br>
-<img src="storyboard/eq2.jpg"/>
-<br>
-<img src="storyboard/eq3.jpg"/>
-<br>
-<img src="storyboard/eq3.jpg"/>
- <br>
-
-<b>Modulation Index m =  ×100 %</b><br>
-<b>Power of Carrier Signal Pc = Ac²/2 </b> <br>
-<b>Power of Side Band Ps = Pc[1+ ma²/2] </b><br>
-<b>Total power, P = Pc + Ps</b>
-
-### 7. Conclusion:
-####  Study of DSB/SSB AM signal has been done. 
-       a) Modulation Index has been calculated.
-       b) Power in the side bands has been determined.
+### 5. Conclusion:
+####  Verification of mass ratio is done. 
+       a) Time period is determined.
+       b) Magnitude of Magnetic Field is also determined.
