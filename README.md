@@ -4,7 +4,7 @@
 
 <b>Discipline | <b>Electrical Engineering
 :--|:--|
-<b> Lab. | <b>Basics Of Chemistry
+<b> Lab. | <b>Basic Electrical Lab
 <b> Experiment|     <b> Verification Of Charge to mass ratio by JJ Thomson Experiment .
 
 
