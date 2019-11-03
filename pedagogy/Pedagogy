@@ -69,4 +69,7 @@ Read the theory and comprehend the concepts related to the experiment.
 Sr.No | What students will do? | What Simulator will do ? | Purpose of the task
 :--|:--|:--|:--:
 1.| Student will click on Simulation tab | Simulator will ask for value of electric and magnetic field | Charge to mass ratio will be displayed. 
-2.| Student will click on Simulation tab | Simulator opens the quizes on  screen | This will test the understandindg of experiment of student. 
+2.| Student will click on Simulation tab | Simulator opens the quizes on  screen | This will test the understandindg of experiment of student.
+3.|Students will click on next quiz tab| Simulator will open the next quiz|This will allow the students to move to next problem. 
+4.|Students will click on previous quiz tab| Simulator will open the previous quiz|This will allow the student review their answers and allow them to modify if done something wrong 
+5.|Students will click on Submit quiz tab| Simulator will save the response given by the students and calculate their result|This result will let the students to judge themself about their understanding related to the experiment.
